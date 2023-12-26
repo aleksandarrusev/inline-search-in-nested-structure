@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Food",
+    "children": [
+      {
+        "name": "Fruits",
+        "children": [
+          {
+            "name": "Pineapple"
+          },
+          {
+            "name": "Apple"
+          },
+          {
+            "name": "Strawberry"
+          },
+          {
+            "name": "Raspberry"
+          }
+        ]
+      },
+      {
+        "name": "Vegetables",
+        "children": [
+          {
+            "name": "Cucumber"
+          },
+          {
+            "name": "Beetroot"
+          },
+          {
+            "name": "Potato"
+          },
+          {
+            "name": "Chickpeas"
+          }
+        ]
+      },
+      {
+        "name": "Meat",
+        "children": [
+          {
+            "name": "Beef"
+          },
+          {
+            "name": "Chicken"
+          },
+          {
+            "name": "Lamb"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Drinks",
+    "children": [
+      {
+        "name": "Alcoholic",
+        "children": [
+          {
+            "name": "Beer"
+          },
+          {
+            "name": "Whiskey"
+          },
+          {
+            "name": "Wine"
+          }
+        ]
+      },
+      {
+        "name": "Non-Alcoholic",
+        "children": [
+          {
+            "name": "Apple juice"
+          },
+          {
+            "name": "Coke"
+          },
+          {
+            "name": "Tea"
+          }
+        ]
+      }
+    ]
+  }
+]
